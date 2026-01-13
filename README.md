@@ -33,8 +33,8 @@ Project ini menggunakan:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/Habibal28/Activity-Analytics-Dashboard.git
+cd Activity-Analytics-Dashboard
 ```
 
 ### 2️⃣ Install Dependency Backend
